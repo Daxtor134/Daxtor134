@@ -6,7 +6,7 @@ My name is **James** *He/Him* I am an American Software Engineer. I feel like I 
 
 ### ✨ What I am currently working on.
 
-I actually the moment right now, am not working on anything. Life is taking up a lot of my time. BUT I do plan on getting back into the flow of things. Just time is slim ;-;.
+I actually at the current moment, am not working on anything. Life is taking up a lot of my time I would be taking programming.
 
 ### 💻 My Set-up & Favorite Programming Language.
 
