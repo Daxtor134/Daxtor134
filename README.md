@@ -13,13 +13,12 @@ I actually at the current moment, am not working on anything. Life is taking up 
 ```txt
 My PC Setup:
 
-Mouse: IBUYPOWER Mouse (Cheap as hell, I know. But has lasted me a long LONG time!)
-Keyboard: Blackweb Mechanical Keyboard
-Monitor: HP 24w 1080p 60hz Monitor - x2
-CPU: AMD FX 8350 - 8 Core Processor
-RAM: 16 GB | 1600 Mhz | Kingston HyperX Fury Memory
-GPU: NVIDIA GTX 1050ti 4gb
-STORAGE: 1TB Hardrive | 120GB SSD
+MOUSE: IBUYPOWER Cheap Mouse
+KEYBOARD: Blackweb Cherry MX Blue Keyboard
+CPU: AMD FX 8350 8 Core Processor
+RAM: LPX Vengeance 16 GB 1600 Mhz
+OS (1): Windows 10 Pro.
+OS (2): Ubuntu Linux 2.04 LTS
 ```
 
 My favorite programming language at the moment is Node.js, besides C/C++.
