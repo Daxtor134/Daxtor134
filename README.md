@@ -1,42 +1,17 @@
-# Hi There! 🙌
+# Hello there! 👋
 
-My name is **James** *He/Him* I am an American Software Engineer. I feel like I should give a warm introduction of myself to people, planning on working with me, or just seeing my profile for the first time! So here go's...
+Welcome to my profile. There is really nothing special here, except my pet projects if you are interested. I am a self taught programmer with over 8 years of experience. I am currently working on FiveM projects, working on making contributions to the project.
 
-## Who am I?
+## ✨ Current Projects ✨
 
-### ✨ What I am currently working on.
+I am currently working on a small project for fun. This is not meant to be serious BUT I am supplying documentation and am open for people contributing. The projects name is [OpenPD](https://github.com/GFXResources/OpenPDTS). The project is a resource that allows players to open up a server with a built in economy and many other useful resources. The goal of OpenPD is to make servers more interactive and fun to play on rather than aimless moving around you have a mission even with AI within the game. I am also getting into robotics in Minecraft, thanks to [Ottomated](https://www.youtube.com/channel/UCVaR0cTRg0IrMwEaACybRPw) and this [video](https://www.youtube.com/watch?v=pwKRbsDbxqc).
 
-I actually at the current moment, am not working on anything. Life is taking up a lot of my time I would be taking programming.
+## 📀 Languages that I like to use 💿
 
-### 💻 My Set-up & Favorite Programming Language.
+My current/top favorite languages to program in:
 
-```txt
-My PC Setup:
-
-MOUSE: IBUYPOWER Cheap Mouse
-KEYBOARD: Blackweb Cherry MX Blue Keyboard
-CPU: AMD FX 8350 8 Core Processor
-RAM: LPX Vengeance 16 GB 1600 Mhz
-OS (1): Windows 10 Pro.
-OS (2): Ubuntu Linux 2.04 LTS
-```
-
-My favorite programming language at the moment is Node.js, besides C/C++.
-
-### 🤙 How to get a hold of me!
-
-My Email for Business: jamesrw35@outlook.com
-
-> Yeah thats really the only way.
-
-### 😎 Projects I want to colaborate on.
-
-Here is a list of some projects I would like colaborate on. Hopefully, in the future.
-
-1. [Discord.js](https://github.com/discordjs/discord.js)
-2. [FiveM](https://github.com/citizenfx/fivem)
-3. [The Cherno's Hazel Game Engine](https://github.com/TheCherno/Hazel)
-
-### 🤝 Collaboration Oppurtinities and Interests.
-
-I would be open to collaborate on projects. Just contact me, and I'll more than likely be interested. I am planning on the future to write my own linux flavor with my own modified linux kernal. So, that sounds like fun.
+1. JavaScript & TypeScript
+2. C/C++
+3. Python
+4. Lua
+5. C#.NET
